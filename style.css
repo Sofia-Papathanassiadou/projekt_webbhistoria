@@ -1,14 +1,23 @@
 body{
 	background-image: url("eh.jpeg");
-	background-size: cover;x
+	background-size: cover;
 	font-size:14px;
 	color: #000000;
 	 
 
 }
 .headerbox{
-	background-color: white;
+	color: white;
 	text-align: center;
 	width: 300px;
 	margin: auto;
+}
+
+.textbox{
+	background-color: white;
+	text-align: center;
+	width: 600px;
+	margin: auto;
+	margin-top: 50px;
+	padding: 50px;
 }
