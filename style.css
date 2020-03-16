@@ -1,6 +1,7 @@
 body{
 	background-image: url("eh.jpeg");
-	background-size: cover;
+	background-size: 1920px;
+	background-attachment: fixed;
 	font-size:15px;
 	color: #000000;
 	 
@@ -47,4 +48,13 @@ body{
   .nav_bar--horizontal li {
 	float: left;
   }
-  
+  .imagehh{
+	  float: left;
+  }
+  .imghh{
+	  width: 100%;
+  }
+  .videohh{
+	  width: 550px;
+	  height: 400px;
+  }
