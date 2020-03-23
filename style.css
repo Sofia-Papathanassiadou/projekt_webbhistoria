@@ -16,7 +16,17 @@ body{
 	margin-block-start: 75px;
 	font-size: 38px;
 }
+.text-title{
 
+	color: white;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	text-align: center;
+	width: 400px;
+	margin: auto;
+	margin-block-start: 75px;
+	font-size: 30px;
+	
+}
 .textbox{
 	background-color: white;
 	text-align: center;
