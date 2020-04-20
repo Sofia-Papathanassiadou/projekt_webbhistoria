@@ -1,0 +1,10 @@
+Jag började med att lägga till en bakgrund och sedan en väldigt simpel css för att kunna placera ut dee andra länkarna för resten av sidorna.
+Sen struktuerade jag hur paragrafer skulle se ut, jag ville ha det simpelt, vitt, lätt på ögonen.
+Den andra sidan jag började med var historiska händelser där jag kopierade från internet museumet från 1970 till 2010
+Den tredje sidan var utveckling av hemsidor , där jag tog bilder från hemsidor och skrev kort om skillnaderna och utvecklingen på dem.
+Fjärde sidan var internets grunläggande principer där jag kopierade bild och text och la lite mellanrum för att göra det lättare att läsa.
+Sista sidan jag gjorde var webbpubliceringssystem sidan, där man också kopierade text från wiki och förklarade olika system.
+
+När jag väl förstodd hur det mesta funkade och lekte runt med css exempelvis så började saker gå fortare och lättare.
+Det som var svårast vad att veta saker, man är tvungen att söka upp hjälp eller fråga om hjälp när kan vill göra en grej som man inte har gjort förut.
+sJag jobbade nästan ingenting och drog ut på det väldigt länge, vilket gjorde så att allt jag lärde mig glömde jag bort nästa gång jag valde att arbeta.
